@@ -10,6 +10,12 @@ fabricação a partir de materiais, gemas engastáveis em equipamentos, itens
 com raridade, missões por classe que convergem numa missão principal
 narrada por NPCs, e um ranking de poder entre jogadores.
 
+**🎮 [Jogar agora](https://pehtonetti.github.io/sede-rpg/)**
+
+## Autoria
+
+Criado por **[Pedro Tonetti](https://github.com/pehtonetti)**. A ideia do jogo, o universo de Ipêra, as classes, as mecânicas e todas as funcionalidades que existem hoje foram concebidas por mim, do zero. O código foi escrito em parceria com IA (Claude), sob a minha direção: eu defini o que construir e como deveria funcionar, revisei e testei cada entrega e conduzi a evolução do projeto.
+
 ## Tecnologias
 
 - **[Three.js](https://threejs.org/)** — a biblioteca 3D mais usada e madura
